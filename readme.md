@@ -1,5 +1,5 @@
 # Lumen and Neo4j Starter
-This project is focus on API development. So, you can't see views.
+This project is focus on API development. So, you can't see views. This project under development yet.
 
 ## How to get it ?
 
@@ -14,13 +14,13 @@ composer install
 php -S localhost:8000 -t public
 ```
 
+## Demo
+Open http://localhost:8000 in your favorite browser.
+
 ## Features
 1. Users, Roles and Permissions management
 2. Ready to use token based API
 3. Readable Neo Eloquent
-
-## Demo
-URL : http://localhost:8000
 
 
 ## Credits
