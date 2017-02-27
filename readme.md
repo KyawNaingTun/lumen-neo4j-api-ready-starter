@@ -1,5 +1,5 @@
 # Lumen and Neo4j Starter
-This project is focus on API development. So, you can't see views.
+This project is focused on API development. So, you can't see views.
 
 ## How to get it ?
 
