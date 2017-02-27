@@ -15,7 +15,7 @@ php -S localhost:8000 -t public
 ```
 
 ## Demo
-Open http://localhost:8000 in your favorite browser.
+Open ```http://localhost:8000``` in your favorite browser.
 
 ## Features
 1. Users, Roles and Permissions management
