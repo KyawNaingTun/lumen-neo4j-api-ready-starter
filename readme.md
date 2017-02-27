@@ -1,5 +1,4 @@
 # Lumen and Neo4j Starter
-=======
 This project is focus on API development. So, you can't see views.
 
 ## How to get it ?
@@ -7,10 +6,11 @@ This project is focus on API development. So, you can't see views.
 #### Manual Download
 Download the from [here](https://github.com/KyawNaingTun/lumen-neo4j/archive/master.zip)
 
-#### GIT
+#### Git&Installation
 ```
 git clone git@github.com:KyawNaingTun/lumen-neo4j.git
 cd lumen-neo4j
+composer install
 php -S localhost:8000 -t public
 ```
 
