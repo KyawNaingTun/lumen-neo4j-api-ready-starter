@@ -1,6 +1,6 @@
 # Lumen and Neo4j Starter
 =======
-This repo is focus on API development. So, you can't see views.
+This project is focus on API development. So, you can't see views.
 
 ## How to get it ?
 
@@ -10,17 +10,26 @@ Download the from [here](https://github.com/KyawNaingTun/lumen-neo4j/archive/mas
 #### GIT
 ```
 git clone git@github.com:KyawNaingTun/lumen-neo4j.git
+cd lumen-neo4j
+php -S localhost:8000 -t public
 ```
 
 ## Features
+1. Users, Roles and Permissions management
+2. Ready to use token based API
+3. Readable Neo Eloquent
 
-
-## Examples
-You can see in example folder.
+## Demo
+URL : http://localhost:8000
 
 
 ## Credits
-This project is currently referenced by
-[http://www.mcfmyanmar.org/myanmar-unicode-converter/](http://www.mcfmyanmar.org/myanmar-unicode-converter/).
-All senior developers who developed font converter.
-[Ko Saturngod](http://www.mysteryzillion.org/discussion/14015/zawgyi-or-unicode-auto-detect-font-type-and-convert-correctly).
+This project is currently used by-
+
+For role and permission management: [Zizaco/Entrust](https://github.com/Zizaco/entrust)
+
+For API:[Dingo/API](https://github.com/dingo/api)
+
+For JWT Token:[Tymon/jwt-auth](https://github.com/tymondesigns/jwt-auth)
+
+For Eloquent: [Vinelab/NeoEloquent](https://github.com/Vinelab/NeoEloquent)
